@@ -1,3 +1,4 @@
+#!/bin/bash
 su
 pacman -Syu
 pacman -S -y sublime-text4 chromium blender htop neofetch keepassxc vim
